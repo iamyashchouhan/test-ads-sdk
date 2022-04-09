@@ -1,2 +1,2 @@
-# test-ads-sdk
-this is ads SDK for testing
+# ads-network-sdk
+A library for displaying ads from multiple ad networks
